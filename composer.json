@@ -1,5 +1,5 @@
 {
-	"name": "vitludwig/jquery-fileupload",
+	"name": "jzechy/jquery-fileupload",
 	"description": "Nette UploadControl rozšířené o blueimp jQuery FileUpload.",
 	"homepage": "https://github.com/JZechy/jQuery-FileUpload",
 	"license": "MIT",
